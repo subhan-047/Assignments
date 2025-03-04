@@ -115,3 +115,4 @@ console.log("\nRepeat the string 6 time : \n" + string.repeat(6))
 console.log("\nSearching index of \'o' : " + string.indexOf('o'))
 console.log("\nSearching the last index of \'o' : " + string.lastIndexOf('o'))
 console.log("\nChecking ths string has charater \'o' or not : " + string.includes('o'))
+
